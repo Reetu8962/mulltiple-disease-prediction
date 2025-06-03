@@ -1,4 +1,4 @@
- Multiple Disease Prediction System – Full Theory
+🧠 Multiple Disease Prediction System – Full Theory
 📌 1. Introduction
 A Multiple Disease Prediction System is a machine learning-based application that can predict various diseases based on user input like symptoms or medical test values. Instead of creating separate systems for each disease, this unified platform allows users to check for multiple diseases from a single place.
 
@@ -73,4 +73,4 @@ XGBoost
 
 Model Saving: After training, model is saved using pickle or joblib
 
-Example:
+
